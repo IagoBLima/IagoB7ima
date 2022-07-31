@@ -1,4 +1,4 @@
-## IAI! Eu sou o Iago B Lima 
+## Fala ai! Eu sou o Iago Batisra de Lima 
 - 💻 Atualmente estou trabalhando como estágiário em projetos de desenvolvimento web e mobile.
 - 📚 Estou reciclando PHP e MySQL 
 <div align="center">

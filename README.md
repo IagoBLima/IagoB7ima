@@ -1,7 +1,7 @@
 ## Fala ai! Eu sou o Iago Batista de Lima 
 - 💻 Atualmente estou trabalhando como estágiário em projetos de desenvolvimento web e mobile.
 - 📚 Estou reciclando PHP e MySQL. 
-- :man_technologist: Estou implementando o sistema de chamados GLPI e o sistema de guarda fila Novo-sga para intituição de encino UNISUAM.
+- :man_technologist: Estou participando diretamente no grupo de implementação do sistema de chamados GLPI e o sistema de guarda fila Novo-sga para intituição de encino UNISUAM.
 <div align="center">
   <a href="https://github.com/IagoB7ima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagob7ima&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>

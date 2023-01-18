@@ -2,11 +2,11 @@
 - 💻 Atualmente estou trabalhando como estágiário em projetos de desenvolvimento web e mobile.
 - 📚 Estou reciclando PHP e MySQL. 
 - :man_technologist: Estou participando diretamente do grupo de implementação do sistema de chamados GLPI e o sistema de guarda fila Novo-SGA para intituição de encino UNISUAM.
-<div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=Iagob7ima&theme=omni&hide_border=false&include_all_commits=true&count_private=true)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Iagob7ima&theme=omni&hide_border=false)<br/><br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iagob7ima&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+
+  ![](https://github-readme-stats.vercel.app/api?username=Iagob7ima&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Iagob7ima&theme=merko&hide_border=false)<br/><br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iagob7ima&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
   
 ##

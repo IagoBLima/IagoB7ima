@@ -3,8 +3,10 @@
 - 💻 Atualmente estou trabalhando como estágiário em projetos de desenvolvimento web e mobile no Centro Universitário Augusto Motta.
 - 📚 Estou reciclando HTML, CSS e Angular avançados. 
 - :man_technologist: Atualmento estamos aguardaondo o lançameto do novo App da Universidade. 
-- :electric_plug: No ultimo projeto participei diretamente do grupo de implementação do sistema de chamados GLPI para intituição de encino UNISUAM.</br></br>
+- :electric_plug: No ultimo projeto participei diretamente do grupo de implementação do sistema de chamados GLPI para intituição de encino UNISUAM.
 #
+</br></br>
+
 <div aling="rigth">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/72325459/213274666-6622b010-f6be-4a36-85d1-49fd1e55843b.png">
 </div>
@@ -14,8 +16,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoB7ima&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 #
 </br></br>
-![Snake animation](https://github.com/IagoB7ima/IagoB7ima/blob/output/github-contribution-grid-snake.svg)
 
+![Snake animation](https://github.com/IagoB7ima/IagoB7ima/blob/output/github-contribution-grid-snake.svg)
+#
 
   
 ## :man_technologist: Tecnologias 

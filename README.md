@@ -1,7 +1,8 @@
 ## :wave: Fala ai! Eu sou o Iago Batista de Lima 
 - 💻 Atualmente estou trabalhando como estágiário em projetos de desenvolvimento web e mobile no Centro Universitário Augusto Motta.
 - 📚 Estou reciclando HTML, CSS e Angular avançados. 
-- :man_technologist: Estou participando diretamente do grupo de implementação do sistema de chamados GLPI e o sistema de guarda fila Novo-SGA para intituição de encino UNISUAM.</br></br>
+- :man_technologist: Atualmento estamos aguardaondo o lançameto do novo App da Universidade. 
+- :computer: No ultimo projeto participei diretamente do grupo de implementação do sistema de chamados GLPI para intituição de encino UNISUAM.</br></br>
 
 ![](https://github-readme-stats.vercel.app/api?username=IagoB7ima&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IagoB7ima&theme=chartreuse-dark&hide_border=false)<br/><br/>

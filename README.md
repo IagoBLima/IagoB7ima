@@ -11,9 +11,9 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/72325459/213274666-6622b010-f6be-4a36-85d1-49fd1e55843b.png">
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=IagoB7ima&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=IagoB7ima&theme=transparent&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoB7ima&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=IagoB7ima&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=IagoB7ima&theme=merko&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoB7ima&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=IagoB7ima&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IagoB7ima&theme=omni&hide_border=false)<br/><br/>

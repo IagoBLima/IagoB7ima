@@ -5,7 +5,6 @@
 - :man_technologist: Atualmento estamos aguardaondo o lançameto do novo App da Universidade. 
 - :electric_plug: No ultimo projeto participei diretamente do grupo de implementação do sistema de chamados GLPI para intituição de encino UNISUAM.
 #
-</br></br>
 
 <div aling="rigth">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/72325459/213274666-6622b010-f6be-4a36-85d1-49fd1e55843b.png">

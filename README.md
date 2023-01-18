@@ -36,7 +36,7 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/72325459/213278163-78bd7c45-7ad0-460d-804e-2c6b3256185d.png">
 </div>
 
-##:iphone: Contatos
+## :iphone: Contatos
 <div>
   <a href = "mailto:iagonumero1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
   <a href="https://www.linkedin.com/in/iagoblima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-         badge&logo=linkedin&logoColor=white" target="_blank"></a>

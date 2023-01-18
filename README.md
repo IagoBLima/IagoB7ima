@@ -1,4 +1,4 @@
-## :wave: Fala ai! Eu sou o Iago Batista de Lima 
+# :wave: Fala ai! Eu sou o Iago Batista de Lima 
 - 💻 Atualmente estou trabalhando como estágiário em projetos de desenvolvimento web e mobile no Centro Universitário Augusto Motta.
 - 📚 Estou reciclando HTML, CSS e Angular avançados. 
 - :man_technologist: Atualmento estamos aguardaondo o lançameto do novo App da Universidade. 
@@ -11,7 +11,7 @@
 
 
   
-# :man_technologist: Tecnologias 
+## :man_technologist: Tecnologias 
 <div style="display: inline_block"><br>
   <img align="center" alt="Iago-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Iago-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -27,7 +27,7 @@
 ## 🏆 Troféus GitHub
 ![](https://github-profile-trophy.vercel.app/?username=IagoB7ima&theme=nord&no-frame=false&no-bg=true&margin-w=8&margin-h=8)
   
-# :iphone: Contatos
+##:iphone: Contatos
 <div>
   <a href = "mailto:iagonumero1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
   <a href="https://www.linkedin.com/in/iagoblima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-         badge&logo=linkedin&logoColor=white" target="_blank"></a>

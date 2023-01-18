@@ -14,10 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=IagoB7ima&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IagoB7ima&theme=blue-green&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoB7ima&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://github-readme-stats.vercel.app/api?username=IagoB7ima&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=IagoB7ima&theme=omni&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoB7ima&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 #
 </br></br>
 

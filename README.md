@@ -1,7 +1,13 @@
 ## Fala ai! Eu sou o Iago Batista de Lima 
-- 💻 Atualmente estou trabalhando como estágiário em projetos de desenvolvimento web e mobile.
+- 💻 Atualmente estou trabalhando como estágiário em projetos de desenvolvimento web e mobile n  Centro Universitário Augusto Motta.
 - 📚 Estou reciclando PHP e MySQL. 
-- :man_technologist: Estou participando diretamente do grupo de implementação do sistema de chamados GLPI e o sistema de guarda fila Novo-SGA para intituição de encino UNISUAM.
+- :man_technologist: Estou participando diretamente do grupo de implementação do sistema de chamados GLPI e o sistema de guarda fila Novo-SGA para intituição de encino UNISUAM.</br></br>
+
+<div>
+<a href="https://github.com/IagoB7ima">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoB7ima&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IagoB7ima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ![](https://github-readme-stats.vercel.app/api?username=IagoB7ima&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IagoB7ima&theme=chartreuse-dark&hide_border=false)<br/><br/>
@@ -15,13 +21,13 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Iago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Iago-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Iago-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Iago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Iago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Iago-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Iago-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Iago-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Iago-Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
+  <img align="center" alt="Iago-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
 </div>
   
 ##

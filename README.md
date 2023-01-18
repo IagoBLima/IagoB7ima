@@ -3,9 +3,9 @@
 - 📚 Estou reciclando PHP e MySQL. 
 - :man_technologist: Estou participando diretamente do grupo de implementação do sistema de chamados GLPI e o sistema de guarda fila Novo-SGA para intituição de encino UNISUAM.
 
-  ![](https://github-readme-stats.vercel.app/api?username=Iagob7ima&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Iagob7ima&theme=merko&hide_border=false)<br/><br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iagob7ima&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=IagoB7ima&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=IagoB7ima&theme=omni&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoB7ima&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
   

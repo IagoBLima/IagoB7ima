@@ -2,7 +2,7 @@
 
 - 💻 Atualmente estou trabalhando como estágiário em projetos de desenvolvimento web e mobile no Centro Universitário Augusto Motta.
 - 📚 Estou reciclando HTML, CSS,  Angular avançados e estudando inglês. 
-- :man_technologist: Atualmento estou analisando estratégias de implementação da API da Alexa Skills e desnvolvendo destestes automatizados em node.js com a biblioteca Selenium, para o sistema legado da universidade. 
+- :man_technologist: Atualmento estou analisando estratégias de implementação da API da Alexa Skills e desnvolvendo testes automatizados em node.js com a biblioteca Selenium, para o sistema legado da universidade. 
 - :electric_plug: No ultimo projeto participei diretamente do grupo de implementação do sistema de chamados GLPI para intituição de encino UNISUAM.
 #
 <br/>

@@ -3,7 +3,7 @@
 - 💻 Atualmente estou trabalhando como Desenvovedor autônomo em projetos pessoais e de terceiros.
 - 📚 No moento estou estudabdo Vue.js e Nuxt.js. 
 - :man_technologist: Agora estou focado no desenvolvimento de uma aplicação chamada GoodParty (GP), que consiste em uma plataforma para gerenciamento de festas e eventos. 
-- :electric_plug: Meus utimos projetos consistem na implementação do sistema de chamados GLPI para intituição de ensino UNISUAM, pesquisa e desnvolvimentos de API's para Alexa, desenvolvimento do sistema de mensageria interno da UNISUAM, periodo em estagiei pela instituição.
+- :electric_plug: Meus utimos projetos consistem na implementação do sistema de chamados GLPI, pesquisa e desnvolvimentos de API's para Alexa, desenvolvimento do sistema de mensageria, todos para intituição de ensino UNISUAM.
 #
 <br/>
 

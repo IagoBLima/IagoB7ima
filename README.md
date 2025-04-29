@@ -1,9 +1,9 @@
 # :call_me_hand: Fala ai! Eu sou o Iago Batista de Lima 
 
-- 💻 Atualmente estou trabalhando como estágiário em projetos de desenvolvimento web e mobile no Centro Universitário Augusto Motta.
-- 📚 Estou reciclando HTML, CSS,  Angular avançados e estudando inglês. 
-- :man_technologist: Atualmento estou analisando estratégias de implementação da API da Alexa Skills e desnvolvendo testes automatizados em node.js com a biblioteca Selenium, para o sistema legado da universidade. 
-- :electric_plug: No ultimo projeto participei diretamente do grupo de implementação do sistema de chamados GLPI para intituição de encino UNISUAM.
+- 💻 Atualmente estou trabalhando como Desenvovedor autônomo em projetos pessoais e de terceiros.
+- 📚 Nomoento estou estudabdo Vue.js e Nuxt.js. 
+- :man_technologist: Agora estou focado no desenvolvimento de uma aplicação chamada GoodParty (GP), que consiste em uma plataforma para gerenciamento de festas e eventos. 
+- :electric_plug: Meus utimos projetos consistem na implementação do sistema de chamados GLPI para intituição de ensino UNISUAM, pesquisa e desnvolvimentos de API's para Alexa, desenvolvimento do sistema de mensageria interno da UNISUAM, periodo em estagiei pela instituição.
 #
 <br/>
 

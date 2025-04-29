@@ -34,7 +34,7 @@
 </div>
 
 ## 🏆 Troféus GitHub
-![](https://github-profile-trophy.vercel.app/?username=IagoB7ima&theme=nord&no-frame=false&no-bg=true&margin-w=8&margin-h=8)
+![](https://github-profile-trophy.vercel.app/?username=IagoBLima&theme=nord&no-frame=false&no-bg=true&margin-w=8&margin-h=8)
 #
 <div aling="right">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/72325459/213278163-78bd7c45-7ad0-460d-804e-2c6b3256185d.png">
